@@ -1,3 +1,8 @@
 # Description of your program (part 7)
+Initiate variables for the number of lines and the number of words to zero first. Then, identify the text file that needs to be opened and read the file. Iterate through each line and split the line by spaces to get the number of words. Finally, print the result. 
 
 # Reflection on writing your program (part 8)
+
+I found this exercise to be somewhat difficult because it has been a really long time since I have done any programming (only did CSE 142 in my freshman year and I didn't exactly do well for the class). I thought describing the instructions for the program was tedious because I couldn't properly convey certain concepts and ideas clearly using plain English. 
+
+Through this course, I hope to improve my computational thinking skills and be technically proficient in building basic systems. I think it is important that I can justify designs I make (as a designer) from a technical stand point. I believe that this class would help me achieve this goal!
